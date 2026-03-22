@@ -1,7 +1,9 @@
 # CryptoSense: Multi-Agent Trading Insights
 
-**Curs:** Metodologii de Dezvoltare Software (MDS) 2026  
+**Curs:** Metodologii de Dezvoltare Software (MDS) 2026
+
 **Echipa:** Cristea Denis-Adrian, Liviu Marinică
+
 **Link Demo**: ...
 
 ---
